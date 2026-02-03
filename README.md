@@ -1,5 +1,7 @@
 ## Playto Community Feed Prototype
 
+DEPLOYED URL: https://playto-red.vercel.app/
+
 This project is a small end-to-end prototype of a **Community Feed** with:
 
 - **Threaded posts & comments** (Reddit-style nested replies)
